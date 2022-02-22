@@ -1204,7 +1204,6 @@ bitsadmin.exe /transfer "GameUserSettings.ini" https://cdn.discordapp.com/attach
 cls
 
 echo YOUR PC IS NOW CLEAN!
-echo THANK YOU FOR USING ZENONITE CLEANER!
-echo (FOR FORTNITE C2S6 UPDATE 16.20)
+echo THANK YOU FOR USING 1337 CLEANER!
 pause >nul
 exit
